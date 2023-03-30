@@ -1,5 +1,5 @@
 # Mail_Application: PyEmail
-This is my Golden Project for Codeclause Internship. I have developed a Mail Application with GUI in Python.
+This is my Golden Project for Codeclause Internship. I have developed a Mail Application [PyEmail] with GUI in Python.
 
 PyEmail is a lightweight and easy-to-use email application written in Python. 
 This application allows users to send and receive emails with minimal setup required. 
